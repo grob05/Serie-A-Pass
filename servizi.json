@@ -5,121 +5,13 @@
         {
             "versione": 0,
             "tipo": 1,
-            "uid": "d401215c-c219-4e80-b07a-4780c12abd18",
-            "nome": "Eleven Sport",
-            "asset": "https://www.elevensports.pl/assets/logo-icons/eleven-sports-logo.svg",
-            "webpage": "https://www.elevensports.pl/",
-            "description": "Guarda la Serie A, Ligue 1, La Liga, Premier League e la Burdensliga, tutto su di unico canale.",
-            "expireDate": 1696341753,
-            "raccoltaUrl": "https://drive.google.com/uc?export=download&id=1oiDB615GD10Btycuyi6yqiWwlM075L-7",
-            "shared": false,
-            "adult": false,
-            "proxy": false,
-            "promo": false,
-            "contatti": {},
-            "color": [
-                "0xFFEB232C",
-                "0xFFEF5158"
-            ],
-            "categorie": [
-                "calcio",
-                "tennis",
-                "cavalli",
-                "moto"
-            ],
-            "listAudio": [
-                {
-                    "uid": "5b407225-8383-4158-ba5e-a6377bbe928a",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "8ae40d48-b429-4b9b-8afc-000496dbd638",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "ef95fb00-5d08-4822-9f14-9f7eb0a242d0",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "e313d037-6d4c-4401-a946-ecc8456f6cbd",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "61b36823-0345-48be-8428-2882cacfaba1",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "c68a6a0c-506c-4459-bde4-a924cf9eb5b9",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "ef78f863-2bbd-482e-a04e-bb3bc76077ae",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "7894d320-9da1-4d71-8c53-0a2a472b2872",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "3fe0cd16-591e-4fa2-adfa-9fa3f7e84279",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "624d696f-dd9a-47e8-a7ba-797562d1687e",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "55b86a67-2180-4c7d-bd1b-5c78c86e9314",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "e7033ca5-ba0e-465c-b40e-3e3d8d5823d1",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "9bd6e46d-d039-4e4b-94b4-2848b4c8f2be",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "80af1454-5445-4e34-9a74-07028294f907",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "fe6fd096-2ad7-45e9-b299-0ab3e8bf5a6d",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                },
-                {
-                    "uid": "d63681b5-950f-4467-b860-94631fc9704f",
-                    "uidServizio": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-                    "deltaTime": 0.0
-                }
-            ]
-        },
-        {
-            "versione": 0,
-            "tipo": 1,
             "uid": "fbde74ed-5297-479b-aee0-7159c4077439",
             "nome": "Megogo",
             "asset": "https://images.ctfassets.net/p05q1kiut8qd/3s7RKxWOXoRrajkSn4rFdN/5c45939e0c8f84cf52881ee68e5c9b1e/MainLogo_black.png?w=350&q=95",
             "webpage": "https://www.megogo.net/",
             "description": "Guarda la Serie A, Ligue 1, La Liga, Premier League, Burdensliga, Europa League e Champsion League, e molto altro ancora.",
             "expireDate": 1696341753,
-            "raccoltaUrl": "https://drive.google.com/u/0/uc?id=1s4IctS1m1lzusZ7Mk8WBaWcminGhEmH-&export=download",
+            "raccoltaUrl": "https://raw.githubusercontent.com/grob05/Serie-A-Pass/main/raccolta_megogo.json",
             "shared": false,
             "adult": false,
             "proxy": true,
@@ -218,55 +110,5 @@
                 }
             ]
         },
-        {
-            "versione": 0,
-            "tipo": 2,
-            "uid": "98248ef0-46af-4840-ac3f-14a5c4f1d979",
-            "nome": "Radio Calcio",
-            "asset": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/295505491/original/cfbfdfff1c5e32c8ccd5e70f86c8e434a374f431.jpg",
-            "webpage": "",
-            "description": "Una serie di Radio live Italiane.",
-            "expireDate": 1696341753,
-            "raccoltaUrl": "https://drive.google.com/uc?export=download&id=1cSBvZkezGN8UYrRtwu-8vSkh400ERTBg",
-            "shared": false,
-            "adult": false,
-            "proxy": false,
-            "promo": false,
-            "contatti": {},
-            "color": [
-                "0xFF393BB8",
-                "0xFF0C8EEB"
-            ],
-            "categorie": [
-                "telecronoca"
-            ],
-            "listAudio": []
-        },
-        {
-            "versione": 0,
-            "tipo": 2,
-            "uid": "3259b18e-ad41-4a95-8fd9-c8d6dd3f4945",
-            "nome": "Spotify",
-            "asset": "https://i.pcmag.com/imagery/reviews/042FW7hC9vrGnoDea9LArXI-35.fit_scale.size_760x427.v1674253030.png",
-            "webpage": "",
-            "description": "Promo per risparmiare sull'abbonamento sporify Premium per dettagli clicca sui link utili disponibili in questa pagina.",
-            "expireDate": 1696341753,
-            "raccoltaUrl": "",
-            "shared": false,
-            "adult": false,
-            "proxy": false,
-            "promo": true,
-            "contatti": {
-                "email": "shop.baruda@gmail.com"
-            },
-            "color": [
-                "0xFF54AF71",
-                "0xFFFFFFFF"
-            ],
-            "categorie": [
-                "telecronoca"
-            ],
-            "listAudio": []
-        }
     ]
 }
